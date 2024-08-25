@@ -1,8 +1,12 @@
 # Codtech-Task-1
 Name: Siddhi Satfale
-Company: CODTECH IT SOLUTIONS				
+
+Company: CODTECH IT SOLUTIONS	
+
 ID: CT08DS6234
+
 Domain: Java Programming
+
 Duration:August to September 2024
 
 OVERVIEW OF THE PROJECT
